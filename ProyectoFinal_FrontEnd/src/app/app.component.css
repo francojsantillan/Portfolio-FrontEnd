@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    height: -webkit-fill-available;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: white;
+    width: 100%;
+    flex-direction: column;
+}
+
+app-header {
+    width: 100%;
+}

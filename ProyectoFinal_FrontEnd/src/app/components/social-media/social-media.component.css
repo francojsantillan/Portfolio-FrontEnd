@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    height: 100%;
+    gap: 20px;
+    align-items: center;
+}
+
+a {
+    height: 45%;
+}
+
+img {
+    height: 100%;
+}

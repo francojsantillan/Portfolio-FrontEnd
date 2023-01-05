@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    background-color: #FFB3B3;
+    height: 10vh;
+    padding: 0px 30px;
+}
+
+app-title {
+    display: flex;
+    width: -webkit-fill-available;
+}
+
+app-logo-argentina-programa {
+    min-width: 9%;
+}
+
+app-social-media {
+    min-width: 9%;
+}
