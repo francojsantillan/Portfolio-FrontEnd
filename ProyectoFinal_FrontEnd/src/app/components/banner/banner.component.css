@@ -4,3 +4,7 @@ div {
     height: 70vh;
     justify-content: center;
 }
+
+img {
+    width: 100%;
+}

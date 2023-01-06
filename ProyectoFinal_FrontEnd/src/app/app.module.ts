@@ -8,6 +8,7 @@ import { LogoArgentinaProgramaComponent } from './components/logo-argentina-prog
 import { SocialMediaComponent } from './components/social-media/social-media.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { TitleComponent } from './components/title/title.component';
+import { AboutComponent } from './components/about/about.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { TitleComponent } from './components/title/title.component';
     LogoArgentinaProgramaComponent,
     SocialMediaComponent,
     BannerComponent,
-    TitleComponent
+    TitleComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
